@@ -1,0 +1,3 @@
+[submodule "tools/gibMacOS"]
+	path = tools/gibMacOS
+	url = git@github.com:corpnewt/gibMacOS.git
