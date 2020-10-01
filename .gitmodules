@@ -10,3 +10,6 @@
 [submodule "tools/GenSMBIOS"]
 	path = tools/GenSMBIOS
 	url = git@github.com:corpnewt/GenSMBIOS.git
+[submodule "tools/USBMap"]
+	path = tools/USBMap
+	url = git@github.com:corpnewt/USBMap.git
