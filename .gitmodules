@@ -13,3 +13,6 @@
 [submodule "tools/USBMap"]
 	path = tools/USBMap
 	url = git@github.com:corpnewt/USBMap.git
+[submodule "tools/OcBinaryData"]
+	path = tools/OcBinaryData
+	url = git@github.com:acidanthera/OcBinaryData.git
