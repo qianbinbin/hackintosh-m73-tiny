@@ -33,10 +33,9 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "SsdtEC", 0x00001000)
      * could trigger randomly.
      */
 
-    /**
-    External (_SB_.PCI0.LPCB.EC0, DeviceObj)
+    External (_SB_.PCI0.LPCB.H_EC, DeviceObj)
 
-    Scope (\_SB.PCI0.LPCB.EC0)
+    Scope (\_SB.PCI0.LPCB.H_EC)
     {
         Method (_STA, 0, NotSerialized)  // _STA: Status
         {
@@ -50,7 +49,6 @@ DefinitionBlock ("", "SSDT", 2, "ACDT", "SsdtEC", 0x00001000)
             }
         }
     }
-    **/
 
     Scope (\_SB.PCI0.LPCB)
     {
