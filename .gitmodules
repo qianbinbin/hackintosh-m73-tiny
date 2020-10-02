@@ -16,3 +16,6 @@
 [submodule "tools/OcBinaryData"]
 	path = tools/OcBinaryData
 	url = git@github.com:acidanthera/OcBinaryData.git
+[submodule "tools/MountEFI"]
+	path = tools/MountEFI
+	url = git@github.com:corpnewt/MountEFI.git
