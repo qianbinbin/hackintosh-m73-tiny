@@ -1,5 +1,7 @@
 # OpenCore EFI for Lenovo ThinkCentre M73 Tiny Desktop
 
+[中文说明](/README-zh_CN.md)
+
 ![](/images/screenshot-20201002-22.29.51.png)
 
 ## Specifications
