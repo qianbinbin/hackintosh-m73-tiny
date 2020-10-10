@@ -1,6 +1,6 @@
 # 联想 ThinkCentre M73 Tiny OpenCore EFI
 
-![](/images/screenshot-20201002-22.29.51.png)
+![](/images/screenshot-20201011-00-44-34.png)
 
 ## 规格
 
@@ -13,13 +13,13 @@
 | CPU | [Intel® Core™ i3-4330 Processor](https://ark.intel.com/content/www/us/en/ark/products/77769/intel-core-i3-4330-processor-4m-cache-3-50-ghz.html) |
 | 显卡 | Intel® HD Graphics 4600 |
 | OpenCore 版本 | 0.6.1 |
-| macOS 版本 | Catalina 10.15 |
+| macOS 版本 | Mojave 10.14 |
 
 ## 使用方法
 
 1. [创建 USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/)。
 
-2. 挂载 USB 中的 EFI 分区（连接电脑时会自动挂载），删除其中所有文件，并把 [EFI 文件夹](https://github.com/qianbinbin/hackintosh-m73-tiny/tree/macOS-Catalina-10.15/BOOT/EFI) 复制进去。
+2. 挂载 USB 中的 EFI 分区（连接电脑时会自动挂载），删除其中所有文件，并把 [EFI 文件夹](https://github.com/qianbinbin/hackintosh-m73-tiny/tree/macOS-Mojave-10.14/BOOT/EFI) 复制进去。
 
    名为 `BOOT` 的 EFI 分区结构应该形如：
 
