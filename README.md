@@ -1,8 +1,8 @@
 # OpenCore EFI for Lenovo ThinkCentre M73 Tiny Desktop
 
-[中文说明](/README-zh_CN.md)
+[简体中文](README-zh_CN.md)
 
-![](/images/screenshot-20201002-22.29.51.png)
+![](images/screenshot-20201002-22.29.51.png)
 
 ## Specifications
 
@@ -15,13 +15,13 @@
 | CPU | [Intel® Core™ i3-4330 Processor](https://ark.intel.com/content/www/us/en/ark/products/77769/intel-core-i3-4330-processor-4m-cache-3-50-ghz.html) |
 | Graphics | Intel® HD Graphics 4600 |
 | OpenCore Version | 0.6.1 |
-| macOS Version | Catalina 10.15 |
+| macOS Version | *Catalina 10.15*, [Mojave 10.14](https://github.com/qianbinbin/hackintosh-m73-tiny/tree/macOS-Mojave-10.14) |
 
 ## Usage
 
 1. [Create the USB](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/).
 
-2. Mount the EFI partition of the USB (automatically mounted when plugged in), remove all files and copy the [EFI folder](https://github.com/qianbinbin/hackintosh-m73-tiny/tree/macOS-Catalina-10.15/BOOT/EFI) there.
+2. Mount the EFI partition of the USB (automatically mounted when plugged in), remove all files and copy the [EFI folder](BOOT/EFI) there.
 
    A `BOOT` labeled EFI partition should look like:
 
