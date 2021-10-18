@@ -49,4 +49,4 @@
 
 6. Boot from the USB to install macOS.
 
-7. Alternatively add proper [Kexts](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#wifi-and-bluetooth) for Intel Wi-Fi cards or non-Apple Broadcom Wi-Fi cards.
+7. Optionally add proper [Kexts](https://dortania.github.io/OpenCore-Install-Guide/ktext.html#wifi-and-bluetooth) for Intel Wi-Fi cards or non-Apple Broadcom Wi-Fi cards.
